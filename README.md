@@ -4,7 +4,7 @@ English: Projects and exercises developed during the Alura’s Data Immersion wi
 
 *English version*:
 
-#Data-Immersion-with-Python-Alura
+# Data-Immersion-with-Python-Alura
 Repository with projects, challenges, and exercises developed during Alura's Data Immersion with Python course.
 
 English: Projects and exercises developed during the Alura’s Data Immersion with Python course.
